@@ -1,1 +1,1 @@
-# PRODIGY_WD_02
+Created a user friendly stopwatch Web application using HTML, JavaScript and CSS. HTML is used to structure the elements, CSS is used for designing the Web Page. JavaScript allows developers to create a dynamic and interactive web page to interact with visitors and execute complex actions. Functions such as Start, Pause, Resume and Reset are implemented in the Web Page. The Stopwatch also shows lap timings with the help of lap function implemented in the Web Page. 
